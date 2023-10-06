@@ -1,4 +1,4 @@
-# 欢迎来到xiaowumin-mark的Gihub 👋
+# 欢迎来到xiaowumin-mark的Github 👋
 
 > ### Welcome To xiaowumin-mark's Github 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaowumin-mark)](https://github.com/anuraghazra/github-readme-stats)
