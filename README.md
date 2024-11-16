@@ -1,5 +1,8 @@
 # 欢迎来到xiaowumin-mark的Github 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaowumin-mark&left_color=green&right_color=red)
+
+
 > ### Welcome To xiaowumin-mark's Github 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaowumin-mark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
@@ -10,14 +13,12 @@
 ### 个人信息
 - 生日：2009/11/18
 - 年龄：自己算
-- 身份：初三
+- 身份：高一
 - QQ：1853046879
 - bilibili：2073384117
 - 邮箱：xiaowumin-mark@outlook / 1853046879@qq.com
 
-### 任务
-- 在2023年11月18日之前完成[SFM](https://github.com/xiaowumin-mark/ServerFileManagement-SFM)
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaowumin-mark)
 
 
 
