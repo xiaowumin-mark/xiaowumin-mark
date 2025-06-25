@@ -14,9 +14,7 @@
 - 生日：2009/11/18
 - 年龄：自己算
 - 身份：高一
-- QQ：1853046879
-- bilibili：2073384117
-- 邮箱：xiaowumin-mark@outlook / 1853046879@qq.com
+- 邮箱：xiaowumin-mark@outlook / xiaowuminmark@gmail.com
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaowumin-mark)
 
