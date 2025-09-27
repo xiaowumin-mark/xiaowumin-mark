@@ -11,9 +11,6 @@
 > My homepage is on [xiaowumin-mark.github.io](//xiaowumin-mark.github.io)
 
 ### 个人信息
-- 生日：2009/11/18
-- 年龄：自己算
-- 身份：高一
 - 邮箱：xiaowumin-mark@outlook / xiaowuminmark@gmail.com
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaowumin-mark)
